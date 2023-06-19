@@ -7,7 +7,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[linkedin]:
+[linkedin]: https://www.linkedin.com/in/salomon-d-cybersecurity-pro/
 
 Here are some ideas to get you started:
 
