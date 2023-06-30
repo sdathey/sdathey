@@ -5,6 +5,9 @@
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/sdathey/Azure-SOC)
 
+- <b>Azure / Cloud Cybersecurity Projects</b>
+  - [Creating a Live SOC / Honeynet in Azure](https://github.com/sdathey/Azure-SOC)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="SalomonDathey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
