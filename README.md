@@ -5,8 +5,7 @@
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/sdathey/Azure-SOC)
 
-- <b>Azure / Cloud Cybersecurity Projects</b>
-  - [Creating a Live SOC / Honeynet in Azure](https://github.com/sdathey/Azure-SOC)
+
 
 <h2> 🤳 Connect with me:</h2>
 
