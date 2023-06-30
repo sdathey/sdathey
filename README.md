@@ -5,7 +5,8 @@
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/sdathey/Azure-SOC)
 
-
+- <b>Azure AD Logging And Monitoring</b>
+  - [Configuring Azure AD Logging And Monitoring](https://github.com/sdathey/Azure-SOC)
 
 <h2> 🤳 Connect with me:</h2>
 
