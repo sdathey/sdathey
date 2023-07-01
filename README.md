@@ -8,15 +8,18 @@
 - <b>Azure AD Logging And Monitoring</b>
   - [Configuring Azure AD Logging And Monitoring](https://github.com/sdathey/AAD-Logging-Monitoring)
 
+- <b>Azure's Activity log Logging And Monitoring</b>
+  - [Configuring Azure's Activity Log Logging And Monitoring]( https://github.com/sdathey/Azure-ActivityLog-Logging-Monitoring)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="SalomonDathey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://linkedin.com/in/salomon-d-cybersecurity-pro
+[linkedin]: https://www.linkedin.com/in/sdathey-cybersecurity-pro
 
  
- 
+
  
  
  
