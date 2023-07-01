@@ -6,10 +6,10 @@
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/sdathey/Azure-SOC)
 
 - <b>Azure AD Logging And Monitoring</b>
-  - [Configuring Azure AD Logging And Monitoring](https://github.com/sdathey/AAD-Logging-Monitoring)
+  - [Configuring Azure Tenant-Level Logging And Monitoring](https://github.com/sdathey/AAD-Logging-Monitoring)
 
 - <b>Azure's Activity log Logging And Monitoring</b>
-  - [Configuring Azure's Activity Log Logging And Monitoring]( https://github.com/sdathey/Azure-ActivityLog-Logging-Monitoring)
+  - [Configuring Azure Subscription-Level Logging And Monitoring]( https://github.com/sdathey/Azure-ActivityLog-Logging-Monitoring)
 
 <h2> 🤳 Connect with me:</h2>
 
